@@ -4,7 +4,7 @@
 
 **Project Title**: Library Management System  
 **Level**: Intermediate  
-**Database**: `library_db`
+**Database**: `library_Management_P2`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
@@ -520,3 +520,4 @@ This project showcases SQL skills essential for database management and analysis
 - **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
 
 Thank you for your interest in this project!
+
